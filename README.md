@@ -204,15 +204,3 @@ yarn build or npm run build
     - 建议用css预处理器，文件名为xxx.module.less，引入相应组件即可使用。
     - 具体做法参见新增模块，路由后缀：/app/cssModule。[点击访问](http://cheng_haohao.oschina.io/reactadmin/#/app/cssModule)
 
-### 结尾
-该项目会不定时更新，后续时间会添加更多的模块
-
-欢迎和感谢大家PR~~👏👏
-
-若有问题，可加QQ群与我交流
-
-- 1群：264591039（已满）
-- 2群：592688854（已满）
-- 3群：743490497
-
-如果对你有帮助，给个star哟~~❤️❤️❤️❤️
